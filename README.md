@@ -4,7 +4,7 @@ local player = Players.LocalPlayer
 local teleportEnabled = false
 
 local POS1 = Vector3.new(-397.6, 506.6, -177.6)
-local POS2 = Vector3.new(-416.8, 607.5, 1270.5)
+local POS2 = Vector3.new(-416.8, 607.5, 1265)
 
 -- GUI
 local screenGui = Instance.new("ScreenGui")
